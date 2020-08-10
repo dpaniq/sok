@@ -1,3 +1,7 @@
+# Preview
+https://github.com/dpaniq/sok/blob/master/preview.png
+![alt text](https://github.com/dpaniq/sok/blob/master/preview.png "Categories")
+
 # Initialization SQL
 Check the `backup.sql` file to create a nessecessery structure.
 
